@@ -7,7 +7,7 @@
 
  **<a href="https://github.com/kingmalvn"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F22B00&center=true&width=435&lines=%F0%9F%A7%B8+Hi+Am+𝙼𝙰𝙻𝚅𝙸𝙽+𝙼𝙳+%E2%9C%A8%EF%B8%8F" alt="Typing SVG" /></a>**
 
- </a><a><img src='https://g.top4top.io/p_3218pggm51.jpg'/></a>
+ </a><a><img src='https://files.catbox.moe/uxnee2.jpg'/></a>
 <p align="center">
 
 <!-- RAINBOW LINE BOT -->
@@ -84,6 +84,12 @@ Check out my YouTube channel for tutorials and more!
     <br>
 <a href='https://ibrahim-adam-c5b1ef481932.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=red&color=blue'/></a>
 
+    **2nd Session**
+   <br>
+   <br>
+<a href='https://replit.com/@malvink003/MALVIN-MD?v=1#main.sh' target="_blank"><img alt='REPLIT PAIR' src='https://img.shields.io/badge/Replit_Session-100000?style=for-the-badge&logo=replit&logoColor=whit&labelColor=black&color=green'/></a>
+
+
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -93,48 +99,75 @@ Check out my YouTube channel for tutorials and more!
 
 
 
-## 🫅LORD MALVIN💫
+**🫅LORD MALVIN💫**
 
 ***
 
-⚜️  CREATE A HEROKU ACCOUNT  *[ HEROKU ]*
+⚜️  **CREATE A HEROKU ACCOUNT**
+    <br>
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Create Account' src='https://img.shields.io/badge/Create Account-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black&color=blue'/></a>
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-red.svg)](https://signup.heroku.com/)
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-♾️  DEPLOY MALVIN MD BOT *[ HEROKU ]*
+♾️  **DEPLOY MALVIN MD BOT**  **[ HEROKU ]**
+    <br>
+    <br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-MD/tree/main' target="_blank"><img alt='Heroku Deploy' src='https://img.shields.io/badge/Heroku Deploy-100000?style=for-the-badge&logo=heroku&logoColor=blue&labelColor=black&color=purple'/></a>
 
-[![Find On Whatsapp ](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-MD/tree/main)
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅How_to_deploy-grey.svg)](https://youtube.com/@malvintech2?si=XxuM984u40ZiC2WG)
 
-***
+♾️  **DEPLOY ON**  **[ RENDER ]**
+    <br>
+    <br>
+<a href='https://render.com' target="_blank"><img alt='Render Deploy' src='https://img.shields.io/badge/Render Deploy-100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
 
-♾️  DEPLOY ON [ RENDER ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅Click_Here-blue.svg)](https://render.com)
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅How_to_deploy-grey.svg)](https://youtube.com/@malvintech2?si=XxuM984u40ZiC2WG)
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-***
 
-♾️  CREATE A PANEL ACCOUNT HERE IF YOU DON'T HAVE
-ONE 🫡👇👇
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅Create_An_Account_Click_Here-blue.svg)]([https://account.solarhosting.cc/register?ref=sWDesIAr)
-
-***
-
-♾️  DEPLOY ON [ Panel ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅Click_Here-blue.svg)](https://account.solarhosting.cc/register?ref=sWDesIAr)
-
-[![Find On Whatsapp ](https://img.shields.io/badge/🫅How_to_deploy-grey.svg)](https://youtube.com/@malvintech2?si=XxuM984u40ZiC2WG)
-
- # ⚡ MALVIN MD INFO
-
+🆓️  **𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗** **[PANEL]**
+<details>
+<summary>CLICK FOR MORE</summary>
  
-ℹ️  <a href="https://github.com/kingmalvn/LORD-INFO"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+<a href="https://github.com/kingmalvn/MALVIN-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+  
+<a hrerf= "https://bot-hosting.net/?aff=1231885228566646795"><img src="https://img.shields.io/badge/BOT-HOSTING%20%20DEPLOY-blue" alt="Scalingo Deploy" width="150"></a>
+
+<a href="https://account.solarhosting.cc/register?ref=Z5R4DoPp"><img src="https://img.shields.io/badge/SOLAR-HOSTING%20%20DEPLOY-pink" alt="Scalingo Deploy" width="150"></a>
+
+
+<a href="https://host.joanimi-world.site/register?ref=Y6cRRMpo"><img src="https://img.shields.io/badge/MEGA-HOSTING%20%20DEPLOY-purple" alt="Scalingo Deploy" width="150"></a>
+</details
+
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+***
+
+#   **❤️Supporters I Love You All🥰❤️**
+[![Stargazers repo roster for @kingmalvn/MALVIN-MD](http://reporoster.com/stars/dark/kingmalvn/MALVIN-MD)](https://github.com/betingrich3/kingmalvn/MALVIN-MD)
+     
+[![Forkers repo roster for @kingmalvn/MALVIN-MD](http://reporoster.com/forks/dark/kingmalvn/MALVIN-MD)](https://github.com/kingmalvn/MALVIN-MD/network/members)
+
+***
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+ ⚡ **MALVIN MD INFO**
+   <br>
+   <br>
+ <a href="https://github.com/kingmalvn/LORD-INFO"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
 ***
 
